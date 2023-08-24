@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gokhawk
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
+- Hello ! I'm Göktuğ ( Gokhawk is my nickname)
+- I'm Studying 	Electrical and Electronics Engineering
+- I'm interested on Linux, Python and C 
+- I'm sharing my custom Linux Desktop dotfiles and my projects on this GitHub
 - 📫 How to reach me Telegram = @Gokhawk  Discord = TheGokhawk#0680 
 
 <!---
