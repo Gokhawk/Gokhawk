@@ -1,5 +1,5 @@
 - Hello ! I'm Göktuğ ( Gokhawk is my nickname)
-- I'm Studying 	Electrical and Electronics Engineering
+- I'm Studying 	Electrical and Electronic Engineering
 - I'm interested on Linux, Python and C 
 - I'm sharing my custom Linux Desktop dotfiles and my projects on this GitHub
 - 📫 How to reach me Telegram = @Gokhawk  Discord = TheGokhawk#0680 Instagram = goktug_gokhawk
